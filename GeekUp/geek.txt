@@ -1,0 +1,9 @@
+Sau khi xem demo của công ty, mình nhận thây là các task được mark done sau khi refresh không được persist data.
+có 2 routes => sử dụng ReactRouter
+route 1: Test ko có gì 
+route 2: 
+có 3 components UI chính là Header, User, Tasks
+User là 1 drop box
+Task có 1 Loader 
+Stack choice Vite + Ant Design: Vite for minimal bundle size compare to CRA (Create React App) + Ant Design 
+First of all: I use a layout consist of 3 main part header content and Footer
